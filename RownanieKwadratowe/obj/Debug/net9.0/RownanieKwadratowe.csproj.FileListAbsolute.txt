@@ -1,0 +1,14 @@
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\net9.0\RownanieKwadratowe.exe
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\net9.0\RownanieKwadratowe.deps.json
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\net9.0\RownanieKwadratowe.runtimeconfig.json
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\net9.0\RownanieKwadratowe.dll
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\net9.0\RownanieKwadratowe.pdb
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.AssemblyInfoInputs.cache
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.AssemblyInfo.cs
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.dll
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\refint\RownanieKwadratowe.dll
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.pdb
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\RownanieKwadratowe.genruntimeconfig.cache
+C:\Users\alrak\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\net9.0\ref\RownanieKwadratowe.dll
